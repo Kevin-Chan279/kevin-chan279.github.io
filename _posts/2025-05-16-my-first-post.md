@@ -1,4 +1,12 @@
 
+---
+title: Customize the Favicon
+author: cotes
+date: 2025-05-16 14:04:00 +0800
+categories: [Blogging, Tutorial]
+tags: [favicon]
+---
+
 說到紫微斗數基本名詞，其實在我還沒上課前，當聽到一些聊紫微常會說到的三方四正、對宮、鄰宮......等等，都不是很清楚，在上過第一堂課程後才恍然大悟，原來這些名詞是這個意思。
 紫微星系介紹
 甲級星共29顆：
