@@ -1,6 +1,6 @@
 
 ---
-title: Customize the Favicon
+title: 紫微斗數的基本名詞介紹
 author: cotes
 date: 2025-05-16 14:04:00 +0800
 categories: [Blogging, Tutorial]
