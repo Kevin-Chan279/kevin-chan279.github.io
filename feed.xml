@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-23T17:23:12+08:00</updated>
+  <updated>2025-05-23T17:26:32+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>佛說八大人覺經</title>
+    <link href="/posts/%E4%BD%9B%E8%AA%AA%E5%85%AB%E5%A4%A7%E4%BA%BA%E8%A6%BA%E7%B6%93/" rel="alternate" type="text/html" title="佛說八大人覺經" />
+    <published>2025-05-23T00:00:00+08:00</published>
+  
+    <updated>2025-05-23T00:00:00+08:00</updated>
+  
+    <id>/posts/%E4%BD%9B%E8%AA%AA%E5%85%AB%E5%A4%A7%E4%BA%BA%E8%A6%BA%E7%B6%93/</id>
+    <content type="text/html" src="/posts/%E4%BD%9B%E8%AA%AA%E5%85%AB%E5%A4%A7%E4%BA%BA%E8%A6%BA%E7%B6%93/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+  
+
+  <summary>title: 佛說八大人覺經 author: cotes date: 2025-05-16 14:04:00 +0800 categories: [Blogging, Tutorial] tags: [favicon] — 為佛弟子 常於晝夜 至心誦念 八大人覺 第一覺悟 世間無常 國土危脆 四大苦空 五陰無我 生滅變異 虛偽無主 心是惡源 形為罪藪 如是觀察 見離生死 第二覺知 多欲為苦 生死疲勞 從貪欲起 少欲無為 身心自在 第三覺知 心無厭足 惟得多求 增長罪惡 菩薩不爾 常念知足 安貧守道 惟慧是業 第四覺知 懈怠墜落 常行精進 破煩惱惡 摧伏四魔 出陰界獄</summary>
+
+  </entry>
 
   
   <entry>
