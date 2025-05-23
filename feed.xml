@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-23T17:26:32+08:00</updated>
+  <updated>2025-05-23T17:27:21+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>Getting Started</title>
-    <link href="/posts/%E5%A5%BD-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <link href="/posts/%E5%A5%BD%E7%9A%84/" rel="alternate" type="text/html" title="Getting Started" />
     <published>2019-08-09T20:55:00+08:00</published>
   
     <updated>2019-08-09T20:55:00+08:00</updated>
   
-    <id>/posts/%E5%A5%BD-started/</id>
-    <content type="text/html" src="/posts/%E5%A5%BD-started/" />
+    <id>/posts/%E5%A5%BD%E7%9A%84/</id>
+    <content type="text/html" src="/posts/%E5%A5%BD%E7%9A%84/" />
     <author>
       <name>cotes</name>
     </author>
