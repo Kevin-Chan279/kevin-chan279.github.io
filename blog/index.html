@@ -5,15 +5,27 @@
   <title>部落格文章列表</title>
 </head>
 <body>
-  <h1>📚 我的部落格文章列表</h1>
-  <ul>
-    <li><a href="2025-05-23-first-post.html">我的第一篇文章</a></li>
-    <li><a href="2025-05-28-second-post.html">第二篇文章</a></li>
-    <li><a href="2025-05-28-third-post.html">佛說八大人覺經</a></li>
-    <!-- 在這裡可以持續新增 -->
-    <!-- <li><a href="2025-05-25-second-post.html">第二篇文章標題</a></li> -->
+  <h1>📚 我的部落格文章</h1>
+  <ul id="post-list">
+    <li>Loading...</li>
   </ul>
 
   <p><a href="/">← 回首頁</a></p>
+
+  <script src="posts.js"></script>
+  <script>
+    const list = document.getElementById("post-list");
+    list.innerHTML = "";
+
+    posts.sort((a, b) => b.date.localeCompare(a.date)); // 最新文章在上
+    posts.forEach(post => {
+      const li = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = post.filename;
+      link.textContent = `${post.title} (${post.date})`;
+      li.appendChild(link);
+      list.appendChild(li);
+    });
+  </script>
 </body>
 </html>
