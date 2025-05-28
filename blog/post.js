@@ -10,8 +10,8 @@ const posts = [
     date: "2025-05-28"
   },
   {
-    title: "第二篇文章",
-    filename: "2025-05-28-second-post.html",
+    title: "佛說八大人覺經",
+    filename: "2025-05-28-third-post.html",
     date: "2025-05-28"
   }
 ];
