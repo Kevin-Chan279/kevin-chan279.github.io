@@ -8,5 +8,10 @@ const posts = [
     title: "第二篇文章",
     filename: "2025-05-28-second-post.html",
     date: "2025-05-28"
+  },
+  {
+    title: "第二篇文章",
+    filename: "2025-05-28-second-post.html",
+    date: "2025-05-28"
   }
 ];
