@@ -13,6 +13,6 @@ const posts = [
  {
     title: "我的英文學習",
     filename: "2025-06-02-4th-EngLearn.html",
-    date: "2026-06-02"
+    date: "2025-06-02"
   }
 ];
