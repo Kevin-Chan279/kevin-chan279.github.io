@@ -13,5 +13,10 @@ const posts = [
     title: "我的英文學習",
     filename: "2025-06-02-4th-EngLearn.html",
     date: "2025-06-02"
+  },
+  {
+    title: "紫微斗數",
+    filename: "2025-06-02-5th-ziwei.html",
+    date: "2025-06-02"
   }
 ];
