@@ -23,5 +23,10 @@ const posts = [
     title: "英文繞口令練習",
     filename: "2025-06-02-6th-ettp.html",
     date: "2025-06-02"
+  },
+  {
+    title: "風水其實很簡單",
+    filename: "2025-06-03-7th-fenshui.html",
+    date: "2025-06-03"
   }
 ];
