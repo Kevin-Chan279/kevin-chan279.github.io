@@ -28,5 +28,15 @@ const posts = [
     title: "風水其實很簡單",
     filename: "2025-06-03-7th-fenshui.html",
     date: "2025-06-03"
+  },
+  {
+    title: "爆炸區間濃度計算",
+    filename: "2025-06-04-8th-unitconv.html",
+    date: "2025-06-04"
+  },
+  {
+    title: "爆炸區間濃度計算",
+    filename: "2025-06-06-9th-concal.html",
+    date: "2025-06-06"
   }
 ];
