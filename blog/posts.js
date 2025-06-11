@@ -38,5 +38,10 @@ const posts = [
     title: "爆炸區間濃度計算",
     filename: "2025-06-06-9th-concal.html",
     date: "2025-06-06"
+  },
+  {
+    title: "印心佛法",
+    filename: "2025-06-11-10th-heartchan.html",
+    date: "2025-06-11"
   }
 ];
