@@ -43,5 +43,10 @@ const posts = [
     title: "印心佛法",
     filename: "2025-06-11-10th-heartchan.html",
     date: "2025-06-11"
+     },
+  {
+    title: "網站資源",
+    filename: "2025-06-27-11th-website.html",
+    date: "2025-06-27"
   }
 ];
